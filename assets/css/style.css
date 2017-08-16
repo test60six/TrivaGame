@@ -1,0 +1,33 @@
+body {background: url("../images/rock.jpg")center;
+}
+
+
+
+.jumbotron{
+
+	margin-bottom: 0px;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+	
+	font-family: 'Sedgwick Ave Display', cursive;
+	text-align: center;
+}
+
+
+.container-fluid{
+	margin-top: 10px;
+	background-color: black;
+	color:white;
+	width: 900px;
+	height:600px;
+}
+
+p{
+	text-align: center;
+}
+button{
+	color: black;
+}
